@@ -5,7 +5,10 @@ This is a simple and modern **Weather Application** built using
 It shows real-time weather details of any city using the  
 **OpenWeatherMap API**.
 
-![Weather App Preview](VD WEATHER API/ss-1.png)
+
+C:\Users\admin\OneDrive\Desktop\VD WEATHER API\ss-1.png
+C:\Users\admin\OneDrive\Desktop\VD WEATHER API\ss-2.png
+
 
 ---
 
