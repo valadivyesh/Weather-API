@@ -43,3 +43,5 @@ C:\Users\admin\OneDrive\Desktop\VD WEATHER API\ss-2.png
 
 ## 🔹 Project Structure
 
+https://github.com/valadivyesh/Weather-API/blob/da5af6c2ce3d5c4e376d16634082990922477cb2/ss-1.png
+
